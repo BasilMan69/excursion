@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+h1{
+    margin: 40px auto;
+    font-size: 69px;
+}
+
+#description_video{
+    margin: 40px auto;
+}
+
+.download_link{
+    color: #56ffd4;
+    font-size: 20px;
+}
+
+.download_link:visited{
+    color: #56ffd4
+}
+
+h2{
+    font-size: 50px
+}
+
+.first_feature_text{
+    font-size: 30px;
+    color: #808080
+}
